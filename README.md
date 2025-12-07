@@ -77,3 +77,9 @@ The dashboard provides a complete breakdown of sales performance, including:
 ⭐ Conclusion
 - This dashboard enables stakeholders to gain a deep understanding of customer trends, product demand, and revenue performance—supporting data-driven decision-making for improved business outcomes.
 <img width="1317" height="727" alt="image" src="https://github.com/user-attachments/assets/9b755d02-595f-4f19-8c30-ab2f34822938" />
+
+📧 Contact
+- Pranika Walokar
+- Data Analyst
+- 📩 Email: pranikawalokar@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranika-prashant-walokar-6890a4252
